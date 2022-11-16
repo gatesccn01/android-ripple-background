@@ -21,7 +21,7 @@ dependencies {
 Add `RippleBackground` to your layout with content you want, like an ImageView. Configure the view customization elements using styleable attributes.
  
 ```xml
-<com.skyfishjy.library.RippleBackground
+<com.mandarin.library.RippleBackground
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
@@ -38,7 +38,7 @@ Add `RippleBackground` to your layout with content you want, like an ImageView. 
         android:layout_centerInParent="true"
         android:id="@+id/centerImage"
         android:src="@drawable/demoImage"/>
-</com.skyfishjy.library.RippleBackground>
+</com.mandarin.library.RippleBackground>
 ```
 Start animation:
 
