@@ -1,4 +1,4 @@
-package com.skyfishjy.library;
+package com.mandarin.library;
 
 import android.animation.Animator;
 import android.animation.AnimatorSet;
