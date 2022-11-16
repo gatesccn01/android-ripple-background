@@ -5,7 +5,7 @@ android {
     buildToolsVersion "21.1.1"
 
     defaultConfig {
-        applicationId "com.skyfishjy.ripplebackground.sample"
+        applicationId "com.mandarin.ripplebackground.sample"
         minSdkVersion 11
         targetSdkVersion 21
         versionCode 2
