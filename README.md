@@ -12,7 +12,7 @@ A beautiful ripple animation for your app. You can easily change its color, spee
 
 ```groovy
 dependencies {
-        compile 'com.skyfishjy.ripplebackground:library:1.0.1'
+        compile 'com.mandarin.ripplebackground:library:1.0.1'
 }
 ```
 ###Step 2
