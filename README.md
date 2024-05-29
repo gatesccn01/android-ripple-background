@@ -12,7 +12,8 @@ A beautiful ripple animation for your app. You can easily change its color, spee
 
 ```groovy
 dependencies {
-        compile 'com.mandarin.ripplebackground:library:1.0.1'
+         implementation 'com.github.gatesccn01:android-ripple-background:1.0.0'
+
 }
 ```
 ###Step 2
